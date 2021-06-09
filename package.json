@@ -1,0 +1,25 @@
+{
+  "name": "nodejsepxressmongodbpractic",
+  "version": "1.0.0",
+  "description": "Its practice version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andersen8/mongnot.git"
+  },
+  "keywords": [
+    "Lockwood8*"
+  ],
+  "author": "arn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andersen8/mongnot/issues"
+  },
+  "homepage": "https://github.com/Andersen8/mongnot#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
